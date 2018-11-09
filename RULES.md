@@ -29,3 +29,7 @@ A player cannot propose a new rule if there are any outstanding proposals they h
 If a rule is accepted,the player that proposed it will be awarded a 3x3cm hexagonal laptop sticker.
 The number of stickers will be tracked on the wiki.
 (The stickers exist in-game only, unfortunately)
+
+## 6 - Bugs in Your Code
+If a rule is rejected, the player that proposed the rule will have gained a software bug!
+Bugs are tracked on the wiki.
