@@ -23,4 +23,4 @@ A rule must be accepted by vote before it is passed into effect. A rule passes i
 Players cast their votes by commenting on open Pull Requests. 
 
 ## 4 - Citizenship Rights
-A player cannot propose a new rule if the day is Monday, Pacific Standard Time (Monday 08:00 through Tuesday 07:59 UTC), and there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote. 
+A player cannot propose a new rule if the day is Monday, Pacific Standard Time (Monday 08:00 through Tuesday 07:59 UTC), or there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote.
