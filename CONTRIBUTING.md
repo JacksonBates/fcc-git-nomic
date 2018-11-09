@@ -38,7 +38,7 @@
 + Open a pull request. Follow the guide here: [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
   + It helps to summarize your rule proposal in the PR description, so people know what they are voting on without reading the source code. (Hint: this could of course be misleading. Always know what you are really voting for, folks!)
 
-+ Now you can delete your local and remote branches:
++ Once your PR is accepted (or closed and rejected) delete your local and remote branches:
   + switch to `master` branch:  
     `git checkout master`
   + list all branches:  
@@ -47,7 +47,7 @@
   + now delete that second branch:  
     `git branch -D <name-of-the-branch>`
   + delete second branch from your GitHub:  
-    `git push origin --delete <name-of-the-branch>`
+    `git push origin --delete <name-of-the-branch>`  
 
 ## How to sync your local repo with the original repo
 
