@@ -26,10 +26,14 @@ Players cast their votes by commenting on open Pull Requests.
 A player cannot propose a new rule if there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote.
 
 ## 5 - Stickers
-If a rule is accepted,the player that proposed it will be awarded a 3x3cm hexagonal laptop sticker.
+If a rule is accepted, the player that proposed it will be awarded a 3x3cm hexagonal laptop sticker.
 The number of stickers will be tracked on the wiki.
 (The stickers exist in-game only, unfortunately)
 
+## 6 - Bugs in Your Code
+If a rule is rejected, the player that proposed the rule will have gained a software bug!
+Bugs are tracked on the wiki.
 
-## 6 - Rule-Changes and New Rules
+## 7 - Rule-Changes and New Rules
 The adoption of new rules and rule-changes must never become completely impermissible.
+
