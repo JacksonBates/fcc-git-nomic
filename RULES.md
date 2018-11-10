@@ -20,7 +20,7 @@ In cases where rules are accepted at the same time, the decision will be based o
 
 ## 3 - Rule Acceptance
 A rule must be accepted by vote before it is passed into effect. A rule passes if it receives 3 votes in its favour. A rule cannot pass if there are 3 votes against it.
-Players cast their votes by commenting on open Pull Requests. 
+Players cast their votes by commenting on open Pull Requests. Players cannot cast votes for rules they've proposed.
 
 ## 4 - Citizenship Rights
 A player cannot propose a new rule if there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote.
