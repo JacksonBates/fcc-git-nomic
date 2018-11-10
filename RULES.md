@@ -29,3 +29,6 @@ A player cannot propose a new rule if there are any outstanding proposals they h
 If a rule is accepted,the player that proposed it will be awarded a 3x3cm hexagonal laptop sticker.
 The number of stickers will be tracked on the wiki.
 (The stickers exist in-game only, unfortunately)
+
+## 6 - Rule-Changes and New Rules
+The adoption of new rules and rule-changes must never become completely impermissible.
