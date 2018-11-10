@@ -33,3 +33,10 @@ The number of stickers will be tracked on the wiki.
 ## 6 - Bugs in Your Code
 If a rule is rejected, the player that proposed the rule will have gained a software bug!
 Bugs are tracked on the wiki.
+
+## 7 - Include fCC Forum
+Once a new rule has been proposed, the player proposing the new rule will add a reply to the [freeCodeCamp forum topic](https://www.freecodecamp.org/forum/t/learn-github-pull-requests-by-playing-a-game-with-other-campers/238897) that includes the following:
+
+  - Rule Name
+  - Description of the Rule
+  - Link to GitHub Pull Request
