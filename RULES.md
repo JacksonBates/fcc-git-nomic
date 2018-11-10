@@ -33,3 +33,7 @@ The number of stickers will be tracked on the wiki.
 ## 6 - Bugs in Your Code
 If a rule is rejected, the player that proposed the rule will have gained a software bug!
 Bugs are tracked on the wiki.
+
+## 7 - Dub Thee 'Hunter of Bugs'
+Any player that raises a valid issue relating to the repo, such as typos, or improvements to the CONTRIBUTING.md, will receive the Title 'Hunter of Bugs'.
+This rule applies retroactively.
