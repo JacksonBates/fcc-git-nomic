@@ -33,3 +33,7 @@ The number of stickers will be tracked on the wiki.
 ## 6 - Bugs in Your Code
 If a rule is rejected, the player that proposed the rule will have gained a software bug!
 Bugs are tracked on the wiki.
+
+## 7 - Rule-Changes and New Rules
+The adoption of new rules and rule-changes must never become completely impermissible.
+
