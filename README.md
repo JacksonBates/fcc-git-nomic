@@ -9,7 +9,7 @@ The rules can be found here: [RULES.md](https://github.com/JacksonBates/fcc-git-
 
 The purpose is to familiarise developers with Github Pull Requests (PRs), and as such rules will be proposed and discussed via PRs.
 
-Since this is also an (albeit unofficial) freeCodeCamp project, it will abide by the freeCodeCamp [Code of Conduct](https://freecodecamp.org/code-of-conduct).
+Since this is also an (albeit unofficial) freeCodeCamp project, it will abide by the freeCodeCamp [Code of Conduct](https://freecodecamp.org/code-of-conduct) (CoC).
 
 These two founding principles (PRs and the CoC) will serve as Universal Constants, like the speed of light, and as such they cannot be changed by new rules or amended by players.
 
