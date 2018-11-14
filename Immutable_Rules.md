@@ -20,11 +20,11 @@ A rule change may be:
   * the transmutation of a rule from mutable to immutable
   * or the transmutation of a rule from immutable to mutable
 
-## 1 - Rule Formatting
+## 3 - Rule Formatting
 A rule shall be formatted according to the example demonstrated by this rule. That is, a short title is provided, using a `##` level header which includes the proposed rule number.
 A longer description of the scope and effects of the rule shall be included underneath.
 
-## 2 - Rule Numbering
+## 4 - Rule Numbering
 A rule should be numbered sequentially according to the last accepted rule.
 In the case were multiple rules are proposed that share the same proposed rule number, the maintainer, or any other agent later empowered by subsequent rule changes, will manually amend the rule numbers when merging pull requests, according to the order in which the rules were accepted.
 In cases where rules are accepted at the same time, the decision will be based on when the rule was proposed.
