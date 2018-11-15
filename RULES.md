@@ -25,7 +25,7 @@ In cases where rules are accepted at the same time, the decision will be based o
 ## 3 - Rule Acceptance
 
 A rule must be accepted by vote before it is passed into effect. A rule passes if it receives 3 votes in its favour. A rule cannot pass if there are 3 votes against it.
-Players cast their votes by reacting with a `+1` or a `-1` to the pull request message.
+Players cast their votes by reacting with a `+1` or a `-1` to the pull request message. Additionally, the player has to add a comment indicating that they have voted.
 
 ## 4 - Citizenship Rights
 
