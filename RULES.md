@@ -36,11 +36,17 @@ A player cannot propose a new rule if there are any outstanding proposals they h
 
 ## 2- Rule Acceptance
 Players cast their votes by commenting on open Pull Requests.
+
 Players cannot cast votes for rules they've proposed.
-Players on cast their votes should tell which type this rule should be considered[Immutable or not] in case they are in favor of this rule.
+
+Players on casting their votes should tell which type a proposed rule should be considered[Immutable/Mutable] in case they are in favor of the proposed rule.
+
 A rule must be accepted by vote before it is passed into effect.
+
 A rule passes if it receives 3 votes in its favor.
+
 A rule cannot pass if there are 3 votes against it, and in case of equality of votes the rule kept in pull request case another 48 hours [from the time of the last vote casted] in case a new vote came in favor of it or an old voter changed his vote, and this is the only case in which players allowed to change their vote.
+
 After 48 hours if the votes still in equality case the rules considered rejected.
 
 ## 3 - Stickers
