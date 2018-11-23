@@ -41,3 +41,8 @@ The adoption of new rules and rule-changes must never become completely impermis
 ## 8 - Dub Thee 'Hunter of Bugs'
 Any player that raises a valid issue relating to the repo, such as typos, or improvements to the CONTRIBUTING.md, will receive the Title 'Hunter of Bugs'.
 This rule applies retroactively.
+
+## 9 - Squish Bugs
+If a player has accumalated bugs in their software, they can pay another player with the title 'Hunter of Bugs' to remove the bug for them at a cost of ONE sticker which will be paid directly to the 'Hunter of Bugs'. 
+Players will discuss their transactions in a newly created 'Market Place' issues thread.
+A player cannot remove their own bugs, even if they are also a 'Hunter of Bugs'.
