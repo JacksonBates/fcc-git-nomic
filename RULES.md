@@ -45,3 +45,6 @@ This rule applies retroactively.
 If a player has accumalated bugs in their software, they can pay another player with the title 'Hunter of Bugs' to remove the bug for them at a cost of ONE sticker which will be paid directly to the 'Hunter of Bugs'. 
 Players will discuss their transactions in a newly created 'Market Place' issues thread.
 A player cannot remove their own bugs, even if they are also a 'Hunter of Bugs'.
+
+## 10 - Bug Master
+On the first of each month, the player with the most bugs gains the title of "Bug Master."
