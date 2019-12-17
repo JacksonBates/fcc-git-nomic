@@ -47,5 +47,5 @@ Players will discuss their transactions in a newly created 'Market Place' issues
 A player cannot remove their own bugs, even if they are also a 'Hunter of Bugs'.
 
 ## 10 - Proposals
-By submitting a Github Pull Request, players may propose any change to this ruleset, including the addition of new rules as well as the amendment or removal of existing rules.
+By submitting a Github Pull Request, players may propose any change to this ruleset, including the addition of one or more new rules, as well as the amendment or removal of one or more existing rules.
 All such proposals are subject to the same rules as new rules proposals. In particular, a proposal must be accepted by vote, as described in rule 3 - Rule Acceptance, before it is passed into effect; and players cannot make a new proposal if there is any outstanding proposals they have not personally cast a vote on, as described in rule 4 - Citizenship Rights.
