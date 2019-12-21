@@ -14,13 +14,13 @@ A rule shall be formatted according to the example demonstrated by this rule. Th
 A longer description of the scope and effects of the rule shall be included underneath.
 
 ## 2 - Rule Numbering
-A rule should be numbered sequentially according to the last accepted rule. 
+A rule should be numbered sequentially according to the last accepted rule.
 In the case were multiple rules are proposed that share the same propsed rule number, the maintainer, or any other agent later empowered by subsequent rule changes, will manually amend the rule numbers when merging pull requests, according to the order in which the rules were accepted.
 In cases where rules are accepted at the same time, the decision will be based on when the rule was proposed.
 
 ## 3 - Rule Acceptance
 A rule must be accepted by vote before it is passed into effect. A rule passes if it receives 3 votes in its favour. A rule cannot pass if there are 3 votes against it.
-Players cast their votes by commenting on open Pull Requests. Players cannot cast votes for rules they've proposed.
+Players cast their votes by reacting with a `+1` or a `-1` to the pull request message. Additionally, the player has to add a comment indicating that they have voted.
 
 ## 4 - Citizenship Rights
 A player cannot propose a new rule if there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote.
