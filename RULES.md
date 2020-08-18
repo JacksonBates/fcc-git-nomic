@@ -20,7 +20,7 @@ In cases where rules are accepted at the same time, the decision will be based o
 
 ## 3 - Rule Acceptance
 A rule must be accepted by vote before it is passed into effect. A rule passes if it receives 3 votes in its favour. A rule cannot pass if there are 3 votes against it.
-Players cast their votes by commenting on open Pull Requests. Players cannot cast votes for rules they've proposed.
+Players cast their votes by reacting with a `+1` or a `-1` to the pull request message. Additionally, the player has to add a comment indicating that they have voted.
 
 ## 4 - Citizenship Rights
 A player cannot propose a new rule if there are any outstanding proposals they have not personally cast a vote on. They must check the open Pull Requests and cast votes. If the number of votes required to pass or reject a rule have already been cast, they do not need to vote.
@@ -46,6 +46,9 @@ If a player has accumalated bugs in their software, they can pay another player 
 Players will discuss their transactions in a newly created 'Market Place' issues thread.
 A player cannot remove their own bugs, even if they are also a 'Hunter of Bugs'.
 
-## 10 - Proposals
+## 10 - Bug Master
+On the first of each month, the player with the most bugs gains the title of "Bug Master."
+
+## 11 - Proposals
 By submitting a Github Pull Request, players may propose any change to this ruleset, including the addition of one or more new rules, as well as the amendment or removal of one or more existing rules.
 All such proposals are subject to the same rules as new rules proposals. In particular, a proposal must be accepted by vote, as described in rule 3 - Rule Acceptance, before it is passed into effect; and players cannot make a new proposal if there is any outstanding proposals they have not personally cast a vote on, as described in rule 4 - Citizenship Rights.
