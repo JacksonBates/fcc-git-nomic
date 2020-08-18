@@ -42,9 +42,13 @@ Any player that raises a valid issue relating to the repo, such as typos, or imp
 This rule applies retroactively.
 
 ## 9 - Squish Bugs
-If a player has accumalated bugs in their software, they can pay another player with the title 'Hunter of Bugs' to remove the bug for them at a cost of ONE sticker which will be paid directly to the 'Hunter of Bugs'. 
+If a player has accumalated bugs in their software, they can pay another player with the title 'Hunter of Bugs' to remove the bug for them at a cost of ONE sticker which will be paid directly to the 'Hunter of Bugs'.
 Players will discuss their transactions in a newly created 'Market Place' issues thread.
 A player cannot remove their own bugs, even if they are also a 'Hunter of Bugs'.
 
 ## 10 - Bug Master
 On the first of each month, the player with the most bugs gains the title of "Bug Master."
+
+## 11 - Proposals
+By submitting a Github Pull Request, players may propose any change to this ruleset, including the addition of one or more new rules, as well as the amendment or removal of one or more existing rules.
+All such proposals are subject to the same rules as new rules proposals. In particular, a proposal must be accepted by vote, as described in rule 3 - Rule Acceptance, before it is passed into effect; and players cannot make a new proposal if there is any outstanding proposals they have not personally cast a vote on, as described in rule 4 - Citizenship Rights.
